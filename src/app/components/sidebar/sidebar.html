@@ -1,0 +1,15 @@
+<div class="p-3 bg-light rounded shadow-sm">
+  <h5>Newsletter</h5>
+  <p>Subscribe to our email newsletter for useful tips and resources.</p>
+  <form>
+    <div class="mb-3">
+      <input type="email" class="form-control" placeholder="Email Address">
+    </div>
+    <button class="btn btn-primary w-100">Subscribe</button>
+  </form>
+  <hr>
+  <h5>Categories</h5>
+  <ul class="list-group">
+    <li class="list-group-item" *ngFor="let cat of categories">{{ cat }}</li>
+  </ul>
+</div>
