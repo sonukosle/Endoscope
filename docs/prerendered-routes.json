@@ -1,6 +1,6 @@
 {
   "routes": {
-    "/": {},
-    "/productlist": {}
+    "/Endoscope": {},
+    "/Endoscope/productlist": {}
   }
 }
