@@ -1,6 +1,6 @@
 
 export default {
-  basePath: '/Endoscope',
+  basePath: '/',
   supportedLocales: {
   "en-US": ""
 },
