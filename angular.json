@@ -23,14 +23,14 @@
             ],
                   "styles": [
               "src/styles.css",
-        "src/assets/plugins/bootstrap/css/bootstrap.min.css",
-        "src/assets/plugins/font-awesome/css/font-awesome.min.css",
-        "src/assets/plugins/uniform/css/uniform.default.css",
-        "src/assets/corporate/css/style.css"
+              "src/assets/plugins/bootstrap/css/bootstrap.min.css",
+              "src/assets/plugins/font-awesome/css/font-awesome.min.css",
+              "src/assets/plugins/uniform/css/uniform.default.css",
+              "src/assets/corporate/css/style.css"
+
             ],
 
         "scripts": [
-
                 "src/assets/plugins/jquery.min.js",
                 "src/assets/plugins/jquery-migrate.min.js",
                 "src/assets/plugins/bootstrap/js/bootstrap.min.js",
