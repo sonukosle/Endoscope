@@ -3,11 +3,12 @@ import { Sidebar } from "../sidebar/sidebar";
 import { CommonModule } from '@angular/common';
 import { Header } from "../header/header";
 import { ProductList } from "../product-list/product-list";
+import { Footer } from "../footer/footer";
 declare var Layout: any;  // Declare the JS object from layout.js
 declare var $: any;
 @Component({
   selector: 'app-home',
-  imports: [CommonModule, ProductList, Header],
+  imports: [CommonModule, ProductList, Header, Footer],
   templateUrl: './home.html',
   styleUrl: './home.css',
 })
