@@ -34,6 +34,6 @@ export default `<!doctype html>
         });
     </script>
 
-  <script src="scripts-7BJCTN2R.js" defer=""></script><script src="main-JKVHIHEU.js" type="module"></script></body>
+  <script src="scripts-7BJCTN2R.js" defer=""></script><script src="main-LXXL3N7D.js" type="module"></script></body>
 </html>
 `;
